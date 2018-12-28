@@ -6,6 +6,7 @@ Created on Tue Oct  9 08:07:22 2018
 @author: fenarius
 """
 
+#Un commentaire pour faire croire que c'est nouveau
 def trouve_libre(L,n):
     t=len(L)
     libre=list(range(1,t+1))
